@@ -1,6 +1,6 @@
 # Hangman-proj
 Project Source Code:
-'''
+```
 #include<iostream.h>
 #include<conio.h>
 #include<string.h>
@@ -9,7 +9,7 @@ Project Source Code:
 #include<process.h>
 #include<stdio.h>
 #include<fstream.h>
-'''
+```
 char fname[20],lname[20];int age;long phno;
 char a[10];
 int noletter;
