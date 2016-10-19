@@ -9,7 +9,7 @@ Project Source Code:
 #include<process.h>
 #include<stdio.h>
 #include<fstream.h>
-```
+
 char fname[20],lname[20];int age;long phno;
 char a[10];
 int noletter;
@@ -312,7 +312,7 @@ obj.q3();
 	obj.dispd();
 getch();
 }
-
+```
 
 
 
